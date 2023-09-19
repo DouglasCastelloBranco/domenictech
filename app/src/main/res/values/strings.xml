@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Domenic_tech_app</string>
+    <string name="titulo_principal">DoMENiC tech</string>
+    <string name="pergunta_conta">Já possui conta?\nEntre</string>
+    <string name="email">E-mail</string>
+    <string name="senha">Senha</string>
+    <string name="login">Login</string>
+    <string name="pergunta_cadastro">Não possui cadastro?\nCadastre-se</string>
+    <string name="cadastro_email">Usando seu E-mail</string>
+    <string name="cadastro_google">Usando sua conta Google</string>
+    <string name="cadastro_outlook">Usando sua conta Microsoft</string>
+    <string name="cadastre">Cadastre-se</string>
+    <string name="nome">Nome Completo</string>
+    <string name="data_nasc">Data de Nascimento</string>
+    <string name="celular">Celular</string>
+    <string name="cpf">CPF</string>
+    <string name="termos">Ao se cadastrar, você concorda com nossos <u>Termos</u></string>
+    <string name="texto_deletar">Você deseja deletar sua conta?\n<b>Essa ação será irreversiva!</b></string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="confirmar_deletar">Deseja deletar seus dados? <u>Clique aqui</u></string>
+    <string name="nome_do_curso">Nome do Curso</string>
+    <string name="descri_o_do_curso">Descrição do Curso</string>
+    <string name="adicionar_curso">Adicionar Curso</string>
+    <string name="remover_ltimo_curso">Remover Último Curso</string>
+</resources>

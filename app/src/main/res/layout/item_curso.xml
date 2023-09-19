@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:padding="16dp">
+
+    <!-- Thumbnail do curso -->
+    <ImageView
+        android:id="@+id/curso_image"
+        android:layout_width="80dp"
+        android:layout_height="80dp"/>
+
+    <!-- Detalhes do curso -->
+    <LinearLayout
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:orientation="vertical">
+
+        <!-- Nome do curso -->
+        <TextView
+            android:id="@+id/nome_curso"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Nome do curso"
+            android:paddingLeft="20dp"
+            android:textSize="18sp"
+            android:textStyle="bold" />
+
+        <!-- Nome do curso -->
+        <TextView
+            android:id="@+id/descricao_curso"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Descrição do curso"
+            android:paddingLeft="20dp"
+            android:textSize="14sp" />
+
+        <!-- Preço do curso -->
+        <TextView
+            android:id="@+id/preco_curso"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Preço: R$ 0"
+            android:paddingLeft="20dp"
+            android:textSize="14sp" />
+    </LinearLayout>
+</LinearLayout>
