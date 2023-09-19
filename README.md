@@ -25,7 +25,6 @@ Atualmente, o aplicativo não implementa práticas específicas de segurança da
 1. Clone este repositório.
 
 ```bash
-# comandos de exemplo
 git clone git clone https://github.com/DouglasCastelloBranco/domenictech.git
 ```
 
