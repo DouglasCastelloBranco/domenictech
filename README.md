@@ -41,6 +41,8 @@ git clone git clone https://github.com/DouglasCastelloBranco/domenictech.git
 - controllers/: Contém as classes controladoras.
 - adapters: Contém as classes de interface dados X views
 - dados/: Contém as classes para armazenamento de dados/
+- APK/Chave: Contém a chave para build do APK
+- APK/release: Contém a versão estável do estado atual do APP pronta para executar no Android
 
 ## Suporte e Feedback
 Para relatar bugs ou solicitar novos recursos, use a seção de "Issues" deste repositório GitHub.
